@@ -22,5 +22,5 @@ jobs:
       run: npm install
 
     - name: Start VS Code server
-      run: npx vscode-to-github@latest --branch main --remote origin --repository https://www.github.com/Githubrealman1/ddos-udp-bgmi-and-bubg.git 
+      run: npx vscode-to-github@latest --branch main --remote origin --repository https://github.com/veeravaishnav05-beep/ddos-udp-bgmi-and-bubg.git 
       
